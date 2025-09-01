@@ -1,0 +1,6 @@
+name=input("enter your name")
+grade=input("Enter tyour grade")
+marks=int(input("enter your grade"))
+print(type(name))
+print(type(grade))
+print(type(marks))
